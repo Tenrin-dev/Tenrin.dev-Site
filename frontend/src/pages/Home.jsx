@@ -35,7 +35,7 @@ const Home = () => {
         <div>
   <h2 className="text-5xl text-black font-extrabold text-left lg:text-5xl 2xl:text-6xl text-transparent bg-gradient-to-tl bg-clip-text to-black from-[#b0b0b0] flex md:flex-row flex-col gap-3 py-2">
    <span>
-      I am
+      I am a
    </span>
     <Typewriter
   options={{
