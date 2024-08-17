@@ -69,7 +69,7 @@ const Home = () => {
     <p className="text-md font-semibold text-gray-800 tracking-wider leading-9">Overview</p>
 
       <h1 className="text-4xl font-bold text-gray-800 tracking-wider lg:text-4xl">INTRODUCTION</h1>
-      <p className="mt-6 text-black text-left">With over five years of experience in graphic design and video editing, I am a seasoned creative professional dedicated to delivering high-quality visual content across various platforms and purposes. As a Senior Graphic Specialist at Sportskeeda, one of India's leading sports media platforms, I manage and execute a wide range of graphic design projects.
+      <p className="mt-6 text-black text-left">With over five years of experience as a seasoned graphic designer and visual storyteller, I thrive on the intersection of creativity and technology.
                     <br/>
 My expertise lies in a strong foundation of design principles and techniques, coupled with proficiency in industry-standard software such as Adobe Photoshop, Illustrator, and Premiere Pro. I excel in creating visually compelling graphics for social media, websites, and print materials, as well as producing engaging video narratives that integrate video, audio, and graphics seamlessly.
 <br/>
