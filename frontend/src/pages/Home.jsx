@@ -73,7 +73,7 @@ const Home = () => {
                     <br/>
 My expertise lies in a strong foundation of design principles and techniques, coupled with proficiency in industry-standard software such as Adobe Photoshop, Illustrator, and Premiere Pro. I excel in creating visually compelling graphics for social media, websites, and print materials, as well as producing engaging video narratives that integrate video, audio, and graphics seamlessly.
 <br/>
-Passionate about gaming and esports, I possess a deep understanding of the latest trends and developments in this dynamic field. I continually seek innovative ways to merge my love for gaming with my design and video editing skills, striving to share my knowledge and insights with others.</p>
+Whether it's designing captivating visuals or editing impactful videos, I am dedicated to crafting experiences that leave a lasting impression.</p>
       <div className='flex items-center flex-wrap gap-5 mt-6 text-white'>
     <a href='https://drive.google.com/file/d/1mdPD7gean3d4TewhwYlDEgrjE-QegKsj/view?usp=sharing' target='_blank' className="inline-flex items-center text-black border-2 py-2 px-6 border-gray-600 focus:outline-none hover:bg-gray-200 hover:text-black hover:scale-110 scale-100 transition-all rounded-xl text-base mt-4 md:mt-0 justify-center gap-1"><GrDocumentPdf /> <span>Resume</span>
     </a>
