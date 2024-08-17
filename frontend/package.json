@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
+    "@fancyapps/ui": "^5.0.36",
     "@headlessui/react": "^2.1.2",
     "@reduxjs/toolkit": "^2.2.7",
     "flickr-justified-gallery": "^2.2.0",
