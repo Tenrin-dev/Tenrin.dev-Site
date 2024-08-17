@@ -34,7 +34,7 @@ const AddNewVideo = () => {
  
   <div className="flex flex-col gap-4 border-b py-4 sm:flex-row">
     <p className="shrink-0 w-32 font-medium">Video Url</p>
-    <input name='url' placeholder="https://zyx.com/myvideo.mp4" className="w-full rounded-md border bg-white px-2 py-2 outline-none ring-blue-600 focus:ring-1" onClick={HandleData} />
+    <input name='url' placeholder="https://zyx.com/myvideo.mp4" className="w-full rounded-md border bg-white px-2 py-2 outline-none ring-blue-600 focus:ring-1"  onChange={HandleData} />
   </div>
   <div className="flex flex-col gap-4 border-b py-4 sm:flex-row">
     <p className="shrink-0 w-32 font-medium">Poster Url</p>
