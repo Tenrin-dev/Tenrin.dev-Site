@@ -71,7 +71,7 @@ const Home = () => {
       <h1 className="text-4xl font-bold text-gray-800 tracking-wider lg:text-4xl">INTRODUCTION</h1>
       <p className="mt-6 text-black text-left">With over five years of experience as a seasoned graphic designer and visual storyteller, I thrive on the intersection of creativity and technology.
                     <br/>
-My expertise lies in a strong foundation of design principles and techniques, coupled with proficiency in industry-standard software such as Adobe Photoshop, Illustrator, and Premiere Pro. I excel in creating visually compelling graphics for social media, websites, and print materials, as well as producing engaging video narratives that integrate video, audio, and graphics seamlessly.
+My work is driven by a commitment to excellence and a passion for pushing creative boundaries. I excel in creating visually compelling graphics for social media, websites, and print materials, as well as producing engaging video narratives that integrate video, audio, and graphics seamlessly.
 <br/>
 Whether it's designing captivating visuals or editing impactful videos, I am dedicated to crafting experiences that leave a lasting impression.</p>
       <div className='flex items-center flex-wrap gap-5 mt-6 text-white'>
