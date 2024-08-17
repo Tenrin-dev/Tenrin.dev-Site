@@ -48,7 +48,7 @@ const Home = () => {
   </h2>
 </div>
 
-  <p className="text-black text-md mt-4 leading-relaxed">With over five years of experience in graphic design and video editing, I specialize in delivering high-quality visual content for various platforms. As a Senior Graphic Specialist at Sportskeeda, I manage diverse graphic design projects. Proficient in Adobe Photoshop, Illustrator, and Premiere Pro, I create compelling graphics and video narratives. Passionate about gaming and esports, I continuously merge my design skills with my love for gaming to stay ahead of trends and share my insights.
+  <p className="text-black text-md mt-4 leading-relaxed">Welcome to my creative space! With a passion for transforming ideas into visually stunning experiences, I specialize in graphic design, video editing, and digital storytelling. From crafting engaging thumbnails to creating dynamic reels, I bring creativity, precision, and a deep understanding of design to every project. Let’s create something amazing together!
 </p>
           
         </div>
